@@ -1,11 +1,16 @@
 /coverage
 /node_modules
-# /build
-/build-intermediate
-/types
 npm-debug.log*
 .DS_Store
 
 /_ignore_
 /.vscode
 /.idea
+/config
+/demo
+/examples
+/src
+/tests
+
+.travis.yml
+tsconfig.json
