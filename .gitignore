@@ -5,3 +5,7 @@
 /types
 npm-debug.log*
 .DS_Store
+
+/_ignore_
+/.vscode
+/.idea
